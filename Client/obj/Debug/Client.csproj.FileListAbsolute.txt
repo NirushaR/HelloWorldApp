@@ -1,0 +1,5 @@
+C:\Users\Nirusha Reddy\Documents\Visual Studio 2015\Projects\HelloWorldApp\Client\bin\Debug\Client.exe.config
+C:\Users\Nirusha Reddy\Documents\Visual Studio 2015\Projects\HelloWorldApp\Client\bin\Debug\Client.exe
+C:\Users\Nirusha Reddy\Documents\Visual Studio 2015\Projects\HelloWorldApp\Client\bin\Debug\Client.pdb
+C:\Users\Nirusha Reddy\Documents\Visual Studio 2015\Projects\HelloWorldApp\Client\obj\Debug\Client.exe
+C:\Users\Nirusha Reddy\Documents\Visual Studio 2015\Projects\HelloWorldApp\Client\obj\Debug\Client.pdb
